@@ -8196,7 +8196,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .3;
+    opacity: .1;
     background: #000000; }
   .hero-wrap.hero-wrap-2 {
     height: 500px;
@@ -9066,7 +9066,7 @@ textarea.form-control {
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .4;
+    opacity: .0;
     background: #000000;
     z-index: -1; }
 
