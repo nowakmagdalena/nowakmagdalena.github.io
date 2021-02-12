@@ -5291,7 +5291,7 @@ button.bg-light:focus {
   background-color: #dae0e5 !important; }
 
 .bg-dark {
-  background-color: #343a40 !important; }
+  background-color: #ffffff !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
@@ -8015,13 +8015,12 @@ h1, h2, h3, h4, h5,
   color: #222222 !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   z-index: 3;
-  padding-top: 30px; }
+  padding-top: 20px; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
       background: #000000 !important;
@@ -8177,11 +8176,11 @@ h1, h2, h3, h4, h5,
       padding-top: 1rem;
       padding-bottom: 1rem; }
       .ftco-navbar-light.scrolled .navbar-brand span {
-        font-weight: 700;
+        font-weight: 400;
         color: #000000; }
 
 .navbar-brand {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 22px;
   text-transform: uppercase; }
 
@@ -8384,7 +8383,7 @@ h1, h2, h3, h4, h5,
     width: 70px;
     height: 70px;
     margin-bottom: -35px;
-    background: #2e9e5b;
+    background: #6a71677a;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -8851,7 +8850,7 @@ textarea.form-control {
     box-shadow: 0 0 0 0 rgba(46, 158, 91, 0); } }
 
 .heading-section .subheading {
-  font-size: 14px;
+  font-size: 12px;
   display: block;
   margin-bottom: 5px;
   text-transform: uppercase;
@@ -8860,7 +8859,7 @@ textarea.form-control {
 
 .heading-section h2 {
   font-size: 24px;
-  font-weight: 500; }
+  font-weight: 400; }
   .heading-section h2 span {
     font-weight: 400; }
   @media (max-width: 767.98px) {
@@ -9273,9 +9272,9 @@ textarea.form-control {
     .contact-section .box {
       margin-bottom: 30px; } }
   .contact-section .box .icon {
-    width: 100px;
-    height: 100px;
-    background: rgb(0, 0, 0);
+    width: 80px;
+    height: 80px;
+    background: #e6e6e6;
     margin: 0 auto;
     margin-bottom: 2em;
     -webkit-border-radius: 50%;
