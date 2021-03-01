@@ -9550,3 +9550,7 @@ a.menu-link {
   position: relative;
   top: -100px;
 }
+
+.country {
+  margin: 1px;
+}
