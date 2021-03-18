@@ -7988,7 +7988,7 @@ body {
   font-size: 14px;
   line-height: 1.8;
   font-weight: 400;
-  color: #444; }
+  color: #888; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8023,7 +8023,7 @@ h1, h2, h3, h4, h5,
   padding-top: 20px; }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
-      background: #000000 !important;
+      background: #ffffff !important;
       position: relative;
       top: 0;
       padding-top: 0;
@@ -8098,7 +8098,7 @@ h1, h2, h3, h4, h5,
       color: #2e9e5b; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: rgba(0, 0, 0, 0.5) !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
@@ -9554,3 +9554,4 @@ a.menu-link {
 .country {
   margin: 1px;
 }
+
